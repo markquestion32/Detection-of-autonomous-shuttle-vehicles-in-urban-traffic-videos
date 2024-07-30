@@ -1,0 +1,12 @@
+
+path: C:\Users\Lenovo\Desktop\yolov10\data  # dataset root dir
+train: train\images  # train images (relative to 'path')
+val: val\images  # val images (relative to 'path')
+test: test\images
+
+nc: 1
+
+
+# Classes
+names:
+  0: autonomous_shuttles
